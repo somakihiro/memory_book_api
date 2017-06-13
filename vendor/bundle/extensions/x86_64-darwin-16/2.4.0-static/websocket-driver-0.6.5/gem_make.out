@@ -1,0 +1,15 @@
+current directory: /Users/somakihiro/Memory_book/memory_book_api/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/Users/somakihiro/.rbenv/versions/2.4.0/bin/ruby -r ./siteconf20170613-22303-18c8eh4.rb extconf.rb
+creating Makefile
+
+current directory: /Users/somakihiro/Memory_book/memory_book_api/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/somakihiro/Memory_book/memory_book_api/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/somakihiro/Memory_book/memory_book_api/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20170613-22303-1x9irof
